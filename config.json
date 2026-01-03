@@ -1,0 +1,8 @@
+[
+  {
+    "name": "BigcBigc",
+    "supabase_url": "https://haupvbvjxzeofelfklsz.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_BIGCBIGC",
+    "table_name": "keep-alive"
+  }
+]
